@@ -23,9 +23,9 @@ A large part of my work sits at the intersection of **systems engineering, field
 
 ## SOACS Software
 
-I develop the **SOACS** suite of mission-focused software tools to reduce repetitive work, improve situational awareness, and put useful capability directly in the hands of operators and support personnel.
+I develop the **SOACS** suite of mission-focused software tools to reduce repetitive work, improve situational awareness, and put useful capability directly in the hands of operators and support personnel. These applications are built around real operational workflows, with working software placed in front of users early so capability can evolve from direct feedback rather than assumptions.
 
-### DaggerBridge
+### DaggerBridge — Production
 
 **IRC / ChatSurfer → Cursor-on-Target tactical messaging bridge**
 
@@ -33,25 +33,41 @@ DaggerBridge monitors tactical messaging sources, applies keyword and coordinate
 
 **Repository:** [SOACS-DaggerBridge](https://github.com/WOwen14/SOACS-DaggerBridge)
 
-### GridWatch
+### GridWatch — Live
 
-Network availability and service monitoring for mission systems, including ICMP, TCP, UDP, ARP discovery, priority-based polling, and an operator summary view.
+**Mission network and service monitoring**
 
-### Arsenal
+GridWatch provides continuous ICMP, TCP, and UDP monitoring for mission systems with ARP discovery, configurable priorities, rapid polling, manual connectivity checks, and a compact operator summary view. It is designed to give operators immediate awareness of system and service availability without adding unnecessary complexity.
 
-Offline software and patch orchestration for Windows and common enterprise applications, with package validation, ordered deployment, error continuation, and portable update packages.
+### ForgeWorks — Live
+
+**Fabrication operations, inventory, and project management**
+
+ForgeWorks supports day-to-day fabrication-shop operations by combining inventory and asset management with projects, reservations, kits/BOMs, serialized items, documents and photos, borrowed-item tracking, quantity adjustments, reporting, and operator accountability. It was designed around actual shop workflows rather than adapting a generic inventory product to the mission.
+
+### Arsenal — Working Prototype
+
+**Offline software and patch orchestration**
+
+Arsenal builds portable offline update packages for Windows and common enterprise applications. It provides package validation, hash verification, installation ordering, error continuation, deployment scripting, and support for Windows, Adobe, SQL, Edge, Chrome, Java, VLC, BIOS, and other update types. Arsenal is currently a functional working prototype.
 
 ### ESA Loadout
 
-Offline update-package builder for ESA client systems, including map/chart data, VVOD, IMOM, TRAX, AKA, and other fielded data sets.
+**Offline ESA data and software update-package builder**
+
+ESA Loadout creates portable deployment packages for fielded ESA client systems, including TAK map/chart data, VVOD, IMOM/parametric data, TRAX, AKA files, and additional fielded data sets. Packages are designed for disconnected environments and PowerShell-driven deployment.
 
 ### Rampart
 
-Cisco configuration and validation tooling designed to streamline switch configuration, interface handling, VLAN work, and pre-deployment checks.
+**Cisco configuration and validation tooling**
+
+Rampart is designed to streamline Cisco switch configuration, syntax validation, STIG prechecks, Layer 2/Layer 3 interface handling, VLAN work, and pre-deployment configuration tasks.
 
 ### WatchTower
 
-Network baseline and device-awareness tooling for identifying expected and unexpected devices across deployed environments.
+**Network baseline and device-awareness tooling**
+
+WatchTower captures expected network-device baselines and helps identify unexpected or unauthorized devices across deployed environments using device, IP, MAC, and network fingerprinting information.
 
 ## Technical focus
 
@@ -67,7 +83,7 @@ SQLite
 WIM / FFU Imaging
 Offline Deployment
 Mission Systems
-``` 
+```
 
 ## Background
 
