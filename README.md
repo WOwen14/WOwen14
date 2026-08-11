@@ -49,6 +49,8 @@ GridWatch provides continuous ICMP, TCP, and UDP monitoring for mission systems 
 
 ForgeWorks is running as a standalone deployment for user testing. It supports day-to-day fabrication-shop operations by combining inventory and asset management with projects, reservations, kits/BOMs, serialized items, documents and photos, borrowed-item tracking, quantity adjustments, reporting, and operator accountability. It was designed around actual shop workflows rather than adapting a generic inventory product to the mission.
 
+**Repository:** [SOACS-ForgeWorks](https://github.com/WOwen14/SOACS-ForgeWorks)
+
 ### Arsenal — Working Prototype
 
 **Offline software and patch orchestration**
