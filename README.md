@@ -21,9 +21,11 @@ A large part of my work sits at the intersection of **systems engineering, field
 - Mission-focused desktop applications
 - Rapid prototyping and operator-driven software development
 
-## Mission Software Portfolio
+## SOACS Software Suite
 
-As part of my current work supporting SOACS, I have designed and developed a growing set of mission-focused software tools to reduce repetitive work, improve situational awareness, and put useful capability directly in the hands of operators and support personnel. These applications are built around real operational workflows, with working software placed in front of users early so capability can evolve from direct feedback rather than assumptions.
+As part of my current work supporting SOACS, **I designed and developed the SOACS software suite**—a growing set of mission-focused applications created to solve real operational problems, reduce repetitive work, improve situational awareness, and put useful capability directly in the hands of operators and support personnel.
+
+SOACS is the organization I currently support; the applications below represent software I developed within that environment. They are built around real workflows, with working software placed in front of users early so capability can evolve from direct feedback rather than assumptions.
 
 ### DaggerBridge — Production
 
@@ -97,7 +99,7 @@ I prefer short feedback loops and direct operator involvement. When possible, I 
 
 ## Current direction
 
-I am continuing to expand my mission-software portfolio while focusing on systems engineering, systems integration, tactical technology, automation, and technical leadership supporting defense and special operations missions.
+I am continuing to expand the SOACS software suite and my mission-software portfolio while focusing on systems engineering, systems integration, tactical technology, automation, and technical leadership supporting defense and special operations missions.
 
 ## Connect
 
