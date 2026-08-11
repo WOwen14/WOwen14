@@ -41,6 +41,8 @@ DaggerBridge monitors tactical messaging sources, applies keyword and coordinate
 
 GridWatch provides continuous ICMP, TCP, and UDP monitoring for mission systems with ARP discovery, configurable priorities, rapid polling, manual connectivity checks, and a compact operator summary view. It is designed to give operators immediate awareness of system and service availability without adding unnecessary complexity.
 
+**Repository:** [SOACS-GridWatch](https://github.com/WOwen14/SOACS-GridWatch)
+
 ### ForgeWorks — Live / User Testing
 
 **Fabrication operations, inventory, and project management**
