@@ -65,17 +65,23 @@ Arsenal builds portable offline update packages for Windows and common enterpris
 
 ESA Loadout creates portable deployment packages for fielded ESA client systems, including TAK map/chart data, VVOD, IMOM/parametric data, TRAX, AKA files, and additional fielded data sets. Packages are designed for disconnected environments and PowerShell-driven deployment.
 
+**Repository:** [SOACS-ESA-Loadout](https://github.com/WOwen14/SOACS-ESA-Loadout)
+
 ### Rampart — Prototype / Development
 
 **Cisco configuration and validation tooling**
 
 Rampart is designed to streamline Cisco switch configuration, syntax validation, STIG prechecks, Layer 2/Layer 3 interface handling, VLAN work, and pre-deployment configuration tasks.
 
-### WatchTower — Prototype / Development
+**Repository:** [SOACS-Rampart](https://github.com/WOwen14/SOACS-Rampart)
+
+### WatchTower — Working Prototype / Early Alpha
 
 **Network baseline and device-awareness tooling**
 
 WatchTower captures expected network-device baselines and helps identify unexpected or unauthorized devices across deployed environments using device, IP, MAC, and network fingerprinting information.
+
+**Repository:** [SOACS-WatchTower](https://github.com/WOwen14/SOACS-WatchTower)
 
 ## Technical focus
 
