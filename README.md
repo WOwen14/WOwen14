@@ -33,7 +33,7 @@ SOACS is the organization I currently support; the applications below represent 
 
 DaggerBridge monitors tactical messaging sources, applies keyword and coordinate rules, converts supported coordinates, and generates CoT data for TAK-compatible environments. The production v1.0 baseline supports IRC, ChatSurfer, MGRS conversion, CoT UDP/TCP output, KMZ/KML generation, configurable alerts, replay testing, and named configuration profiles.
 
-**Repository:** [SOACS-DaggerBridge](https://github.com/WOwen14/SOACS-DaggerBridge)
+**Repository:** Private — source is not publicly accessible.
 
 ### GridWatch — Live / Production
 
