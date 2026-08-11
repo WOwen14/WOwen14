@@ -57,6 +57,8 @@ ForgeWorks is running as a standalone deployment for user testing. It supports d
 
 Arsenal builds portable offline update packages for Windows and common enterprise applications. It provides package validation, hash verification, installation ordering, error continuation, deployment scripting, and support for Windows, Adobe, SQL, Edge, Chrome, Java, VLC, BIOS, and other update types. Arsenal is currently a functional working prototype.
 
+**Repository:** [SOACS-Arsenal](https://github.com/WOwen14/SOACS-Arsenal)
+
 ### ESA Loadout — Working Software
 
 **Offline ESA data and software update-package builder**
