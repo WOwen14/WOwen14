@@ -6,7 +6,7 @@ I build and integrate technology for environments where reliability, speed, and 
 
 A large part of my work sits at the intersection of **systems engineering, field operations, networking, automation, and software development**. I focus on solving real workflow problems quickly—especially in disconnected, constrained, or mission-focused environments where commercial tooling does not always fit the requirement.
 
-> **Technology is not the end product—the warfighter's operational advantage is.**
+> **Technology is not the end product — the warfighter's operational advantage is.**
 
 ## What I work on
 
@@ -101,7 +101,7 @@ Mission Systems
 
 ## Background
 
-My career has included support to military and special operations organizations and aviation platforms, including AFSOC and MARSOC environments and systems associated with CV-22, MC-130J, HC-130J, and C-146 operations.
+My career has included support to military and special operations organizations and aviation platforms, including AFSOC and MARSOC environments and systems associated with CV-22, MC-130J, HC-130J, AC130J, U28 and C-146 operations.
 
 I am a U.S. Marine Corps veteran and bring the same bias toward mission accomplishment into engineering work: understand the operator, solve the actual problem, reduce unnecessary friction, and deliver something that works.
 
