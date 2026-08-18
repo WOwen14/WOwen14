@@ -83,6 +83,14 @@ WatchTower captures expected network-device baselines and helps identify unexpec
 
 **Repository:** [SOACS-WatchTower](https://github.com/WOwen14/SOACS-WatchTower)
 
+### Switchboard — Active Development
+
+**Unified multi-platform tactical messaging hub**
+
+Switchboard consolidates mIRC/IRC, ChatSurfer, Link 16, MUOS/XMPP, and internal messaging into a single operator interface. It is being built around platform-specific connection management, unified conversation monitoring, bidirectional message handling, source-aware routing, and configurable integration with TRAX for Link 16 messaging.
+
+**Repository:** Private — source code is maintained in the SOACS-Switchboard repository.
+
 ## Technical focus
 
 ```text
